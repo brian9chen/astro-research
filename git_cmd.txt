@@ -1,0 +1,7 @@
+git add kepler_processing.py 
+git commit -m "add py instead of ipynb"
+git push -u origin master
+
+$ pwd
+/Users/23brianc/ge_astro
+
